@@ -1,0 +1,42 @@
+!!python/object/new:moveit_msgs.msg._RobotTrajectory.RobotTrajectory {state: [!!python/object/new:trajectory_msgs.msg._JointTrajectory.JointTrajectory {
+      state: [!!python/object/new:std_msgs.msg._Header.Header {state: [0, !!python/object/new:genpy.rostime.Time {
+              state: [0, 0]}, world]}, [ur5_shoulder_pan_joint, ur5_shoulder_lift_joint,
+          ur5_elbow_joint, ur5_wrist_1_joint, ur5_wrist_2_joint, ur5_wrist_3_joint],
+        [!!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [-0.9598802240596918, -0.38403732985893857, -1.3614408590701341,
+                -1.3962364772615157, -2.042040499449646, 0.00010689474163605439],
+              !!python/tuple [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], !!python/tuple [-8.720416398587089e-05,
+                0.0, 0.0, 0.0, 0.0, 0.0], !!python/tuple [], !!python/object/new:genpy.rostime.Duration {
+                state: [0, 0]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [-0.9598931525675736, -0.38404350751162447, -1.5097660447106018,
+                -1.3962441081730768, -2.042018904237584, 8.186551503159976e-05], !!python/tuple [
+                -4.037077192064569e-05, -1.9290440154874272e-05, -0.4631626707645763,
+                -2.382841028473431e-05, 6.743356531859206e-05, -7.815667576099202e-05],
+              !!python/tuple [-8.622923167285022e-05, -4.12030722732067e-05, -0.9892840621857072,
+                -5.08958687948574e-05, 0.0001440335235016554, -0.00016693736037951622],
+              !!python/tuple [], !!python/object/new:genpy.rostime.Duration {state: [
+                  0, 544528467]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [-0.9599060810754555, -0.3840496851643104, -1.6580912303510698,
+                -1.3962517390846378, -2.0419973090255223, 5.683628842714512e-05],
+              !!python/tuple [-5.699896898705066e-05, -2.7235922124248862e-05, -0.6539333644324516,
+                -3.3643023261403535e-05, 9.520857579347123e-05, -0.00011034839627483789],
+              !!python/tuple [0.0, 1.0789977902292524e-15, 0.0, 4.315961285850138e-15,
+                0.0, 0.0], !!python/tuple [], !!python/object/new:genpy.rostime.Duration {
+                state: [0, 771348497]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [-0.9599190095833374, -0.3840558628169962, -1.8064164159915377,
+                -1.3962593699961987, -2.0419757138134607, 3.180706182269048e-05],
+              !!python/tuple [-4.0271498319730526e-05, -1.9243004067545327e-05, -0.46202373227147675,
+                -2.3769815117976685e-05, 6.726774305329029e-05, -7.796448486967959e-05],
+              !!python/tuple [8.623068565387816e-05, 4.120376703100672e-05, 0.9893007433069143,
+                5.089672698887117e-05, -0.00014403595216778379, 0.00016694017524579064],
+              !!python/tuple [], !!python/object/new:genpy.rostime.Duration {state: [
+                  0, 998168528]}]}, !!python/object/new:trajectory_msgs.msg._JointTrajectoryPoint.JointTrajectoryPoint {
+            state: [!!python/tuple [-0.9599319380912192, -0.3840620404696821, -1.9547416016320054,
+                -1.3962670009077598, -2.0419541186013985, 6.777835218235847e-06],
+              !!python/tuple [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], !!python/tuple [8.575177323860388e-05,
+                4.097492743252971e-05, 0.9838063139912235, 5.061405413306893e-05,
+                -0.00014323599789857586, 0.00016601301432021546], !!python/tuple [],
+              !!python/object/new:genpy.rostime.Duration {state: [1, 547289013]}]}]]},
+    !!python/object/new:trajectory_msgs.msg._MultiDOFJointTrajectory.MultiDOFJointTrajectory {
+      state: [!!python/object/new:std_msgs.msg._Header.Header {state: [0, !!python/object/new:genpy.rostime.Time {
+              state: [0, 0]}, '']}, [], []]}]}
