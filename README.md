@@ -1,6 +1,6 @@
 # VargiBots_eYRC
 
-##Project Team (alphabetically) :
+#Project Team (alphabetically) :
 
 1 . Anirudhha Mandal
 
