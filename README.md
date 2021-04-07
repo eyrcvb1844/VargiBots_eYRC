@@ -1,5 +1,7 @@
 # VargiBots_eYRC
 
+## Documentation:
+https://vargibots.readthedocs.io/en/latest/index.html
 ## Other Packages used:
 
 https://github.com/e-yantra-r3/vb_simulation_pkgs
