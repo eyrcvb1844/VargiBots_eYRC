@@ -1,5 +1,9 @@
 # VargiBots_eYRC
 
+## Other Packages used:
+
+https://github.com/e-yantra-r3/vb_simulation_pkgs
+
 ## Project Team (alphabetically) :
 
 1 . Anirudhha Mandal
