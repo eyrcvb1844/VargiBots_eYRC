@@ -6,7 +6,7 @@ https://github.com/e-yantra-r3/vb_simulation_pkgs
 
 ## Project Team (alphabetically) :
 
-1 . Anirudhha Mandal
+1 . Aniruddha Mandal
 
 2 . Anish Konar
 
