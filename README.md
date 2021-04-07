@@ -14,4 +14,4 @@ https://github.com/e-yantra-r3/vb_simulation_pkgs
 
 3 . Chirantan Ganguly (https://github.com/ChirantanGanguly)
 
-4 . Sagnik Nayak (Team Lead) (https://github.com/sagniknayak)
+4 . Sagnik Nayak (Team Leader) (https://github.com/sagniknayak)
