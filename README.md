@@ -5,7 +5,12 @@
 https://github.com/e-yantra-r3/vb_simulation_pkgs
 
 ## Documentation:
+
 https://vargibots.readthedocs.io
+
+## Video of complete implementation :
+
+https://www.youtube.com/watch?v=QIGFrAWsTJA
 
 ## Dynamic Dashboard :
 
