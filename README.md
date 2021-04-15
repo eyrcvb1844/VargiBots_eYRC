@@ -1,10 +1,15 @@
 # VargiBots_eYRC
 
-## Documentation:
-https://vargibots.readthedocs.io
 ## Other Packages used:
 
 https://github.com/e-yantra-r3/vb_simulation_pkgs
+
+## Documentation:
+https://vargibots.readthedocs.io
+
+## Dynamic Dashboard :
+
+https://eyrcvb1844.github.io/VB-1844_Warehouse_Dashboard/
 
 ## Project Team (alphabetically) :
 
