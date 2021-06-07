@@ -20,7 +20,7 @@ https://eyrcvb1844.github.io/VB-1844_Warehouse_Dashboard/
 
 1 . Aniruddha Mandal (https://github.com/animandal921)
 
-2 . Anish Konar
+2 . Anish Konar (https://github.com/TheBuffer)
 
 3 . Chirantan Ganguly (https://github.com/ChirantanGanguly)
 
